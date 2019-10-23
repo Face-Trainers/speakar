@@ -1,5 +1,5 @@
 # SpeakAR
- Spark AR project
+ Spark AR 2019 Facebook hackathon
 
 ## Inspiration
 
