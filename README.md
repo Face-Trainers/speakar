@@ -16,7 +16,7 @@ An augmented reality feature with Spark AR that allows users to practice facial 
 
 ### Preview
 
-<img src= "https://i.imgur.com/KKtCkh4.gif" width="200" height="400">
+<img src= "https://i.imgur.com/KKtCkh4.gif" width="220" height="400">
 
 
 
