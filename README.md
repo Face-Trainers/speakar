@@ -1,5 +1,5 @@
 # SpeakAR
- Spark AR project with Webpack.
+ Spark AR project
 
 ## Inspiration
 
@@ -12,16 +12,10 @@ An augmented reality feature with Spark AR that allows users to practice facial 
 ## Getting Started
 
 - Clone or download this repository
-- run `npm i` in the root folder
+- Download Spark AR Studio https://sparkar.facebook.com/ar-studio/download
 
-## Usage
+### Preview
 
-### Development
-- run `npm run dev`
-- this will watch your files for changes and automatically build the code
-- when the code is rebuilt Spark AR should refresh on code change
+https://i.imgur.com/KKtCkh4.gifv
 
-### Production
-- run `npm run build`
-- this just runs the build once and outputs a minified file
 
